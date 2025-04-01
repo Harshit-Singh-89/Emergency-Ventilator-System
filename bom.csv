@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"U3",1," Arduino Uno R3"
+"U4",1," LCD 16 x 2"
+"Rpot4, Rpot5, Rpot6",3,"250 kΩ Potentiometer"
+"R3",1,"220 Ω Resistor"
+"PIEZO2",1," Piezo"
+"SERVO2",1,"Positional Micro Servo"
